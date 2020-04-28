@@ -11,5 +11,4 @@ Gem::Specification.new do |s|
   s.require_path = "lib"
   s.add_dependency "prawn"
   s.add_development_dependency('rspec')
-  s.has_rdoc = true
 end
