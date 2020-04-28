@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = "prawn-blank"
-  s.version = "0.0.3"
-  s.date = %q{2013-11-20}
+  s.version = "0.1.0"
+  s.date = %q{2020-04-28}
   s.authors = ["HannesG"]
   s.email = %q{hannes.georg@googlemail.com}
   s.summary = %q{This is a experimental library. See the basic example for usage and abilities.}
